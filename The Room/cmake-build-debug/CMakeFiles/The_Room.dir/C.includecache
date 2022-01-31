@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jozemiteapps/Dropbox/Summer 2017/CS 2 Done/Programs/Final Project/The Room/Ramirez.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+RamirezGameData.h
+/Users/jozemiteapps/Dropbox/Summer 2017/CS 2 Done/Programs/Final Project/The Room/RamirezGameData.h
+
+/Users/jozemiteapps/Dropbox/Summer 2017/CS 2 Done/Programs/Final Project/The Room/RamirezGameData.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+RamirezGameData.h
+/Users/jozemiteapps/Dropbox/Summer 2017/CS 2 Done/Programs/Final Project/The Room/RamirezGameData.h
+
+/Users/jozemiteapps/Dropbox/Summer 2017/CS 2 Done/Programs/Final Project/The Room/RamirezGameData.h
+
